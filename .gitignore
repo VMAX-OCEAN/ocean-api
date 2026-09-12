@@ -1,0 +1,5 @@
+# ocean-api — FastAPI service (scaffold pending)
+__pycache__/
+*.pyc
+.venv*/
+.env
